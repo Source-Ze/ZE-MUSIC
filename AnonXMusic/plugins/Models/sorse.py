@@ -9,7 +9,7 @@ from pyrogram import filters
 import random
 from pyrogram import Client
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup
-from strings.filters import command
+from strings import command
 from AnonXMusic import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app)
 from AnonXMusic import app
 from random import  choice, randint
